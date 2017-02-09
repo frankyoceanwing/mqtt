@@ -1,0 +1,17 @@
+hash: 1b5db90be8337deb1927144fb2c90a56ba312021a48a97464d6b300c1d5a9304
+updated: 2017-02-09T16:19:47.426831344+08:00
+imports:
+- name: github.com/eclipse/paho.mqtt.golang
+  version: 45f9b18f4864c81d49c3ed01e5faec9eeb05de31
+  subpackages:
+  - packets
+- name: github.com/golang/protobuf
+  version: 8ee79997227bf9b34611aee7946ae64735e6fd93
+  subpackages:
+  - proto
+  - protoc-gen-go
+- name: golang.org/x/net
+  version: 236b8f043b920452504e263bc21d354427127473
+  subpackages:
+  - websocket
+testImports: []
